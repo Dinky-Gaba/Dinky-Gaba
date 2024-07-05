@@ -1,3 +1,4 @@
+![logo](https://github.com/Dinky-Gaba/Dinky-Gaba/blob/main/DA1.gif)
 <h1 align="center">Hi 👋, I'm Dinky Gaba</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
